@@ -11,7 +11,7 @@ import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
-public class CreateController extends HttpServlet {
+public class PicController extends HttpServlet {
     private static final long serialVersionUID = 1L;
     static final int LISTCOUNT = 5;
 
@@ -100,7 +100,7 @@ public class CreateController extends HttpServlet {
         // Implement your logic here
     }
 
-    public CreateController() {
+    public PicController() {
         // Default constructor
     }
 }

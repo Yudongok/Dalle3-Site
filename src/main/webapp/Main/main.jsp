@@ -111,7 +111,7 @@
                 <img src="../resources/images/createImg.jpg" alt="Create">
                 <div class="overlay">이미지생성</div>
             </a>
-            <a href="./checkLog.jsp" class="image-container">
+            <a href="./showImage.jsp" class="image-container">
                 <img src="../resources/images/checkLog.jpeg" alt="CheckLog">
                 <div class="overlay">과거이미지확인</div>
             </a>
